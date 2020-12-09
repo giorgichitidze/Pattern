@@ -1,3 +1,3 @@
 # Pattern
 
-Thi is a learning purpose project.
+This is a learning purpose project.
